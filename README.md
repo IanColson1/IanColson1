@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @IanColson1 <!--- that's my nickname ---!>
+- 👋 Hi, I’m @IanColson1 
 - 👀 I’m interested in anything tech related
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on any web related projects 
-- 📫 How to reach me ..
+- 📫 BTW iancolson1 is my nickname
+- 
 
 <!---
 IanColson1/IanColson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
